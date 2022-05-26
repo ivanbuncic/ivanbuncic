@@ -5,4 +5,4 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"
      height="30px" width="30px" 
-     alt="Twitter monster"/>](https://twitter.com/ivanbuncic)
+     alt="Twitter monster"/>](https://twitter.com/ivanbuncic) ## ⬅️ Follow me
