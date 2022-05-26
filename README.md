@@ -3,6 +3,6 @@
 ### 🔴 Social Media MINI Mogul
 ### 🕰 Windows and Linux System Administrator
 
-## [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"
      height="30px" width="30px" 
      alt="Twitter monster"/>](https://twitter.com/ivanbuncic) ⬅️ Follow me
