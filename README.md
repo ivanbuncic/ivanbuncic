@@ -4,5 +4,5 @@
 ### 🕰 Windows and Linux System Administrator
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"
-     height="28px" width="28px"
+     height="28px" width="28px" align="right"
      alt="Twitter monster"/>](https://twitter.com/ivanbuncic)
