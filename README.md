@@ -1,6 +1,6 @@
 ### 🟢 Full Stack Copy Paster ™
-### 🟠 Started with LOAD "" ENTER & PLAY
-### 🔴 Social Media MINI Mogul
-### 🕰 Windows and Linux System Administrator
+### 🚫 Social Media MINI Mogul
+### 🌅 Started with LOAD "" ENTER & PLAY
+### **EX** Windows and Linux System Administrator
 
-[X](https://x.com/ivanbuncic)
+[**X**](https://x.com/ivanbuncic)
