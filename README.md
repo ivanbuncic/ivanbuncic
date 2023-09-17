@@ -3,4 +3,4 @@
 #### 🌅 Started with LOAD "" ENTER & PLAY
 #### **EX** Windows and Linux Systems administrator and Network engineer
 
-### [**X**](https://x.com/ivanbuncic)
+### [**x**](https://x.com/ivanbuncic)
